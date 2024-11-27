@@ -1,4 +1,4 @@
-# Traffic License Quiz  
+# Saudi Driving License Practice Test  
 A collection of interactive traffic license practice quizzes. Test your knowledge and prepare for your driving test.
 
 ## How to Use
