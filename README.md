@@ -5,4 +5,4 @@ A collection of interactive traffic license practice quizzes. Test your knowledg
 Download the `quiz.html` file and open it in your browser to start practicing.
 
 ## Website  
-For more quizzes and practice tests, visit: [Driving Test KSA](https://www.drivingtestksa.com)
+For more quizzes and practice tests, visit: [Driving Test KSA](https://drivingtestksa.com)
